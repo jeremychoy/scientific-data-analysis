@@ -6,6 +6,11 @@
 * PDF of [Independent Study Application](./IndependentStudyApplication.pdf)
 * PDF of [Preliminary Syllabus](./PreliminarySyllabus.pdf)
 
+## Required Materials
+
+* Imad Pasha, *Astronomical Python* (Sections 1–2, Chapters 1–8)
+* Joel Grus, *Data Science from Scratch, 2nd Edition*
+
 ## Daily Schedule
 
 ### Part 1: Scientific Python (using Imad Pasha)
