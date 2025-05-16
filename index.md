@@ -27,9 +27,9 @@
 * Ch. 7: Scientific Computing with SciPy
 * Ch. 8: Astropy and Astronomical Packages
 
-### Part 2: Data Science Foundations (Grus)
+### Part 2: Data Science Foundations (using Joel Grus)
 
-####Week 4 (June 3 & 6):
+#### Week 4 (June 3 & 6):
 
 * Ch. 1–2: What is Data Science? Python Review
 * Ch. 3: Visualizing Data
