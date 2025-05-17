@@ -2,16 +2,19 @@
 
 ### Part 1: Scientific Python (using Imad Pasha)
 
+* Regular meeting times are Wednesdays and Saturdays (at 11)
+
 #### Week 1 (May 16 and 17):
 
 * May 16: Self study chapter 1 through chapter 3 and review with Brian
-* May 17: Complete Ch. 4: Introduction to Python &mdash; Problem Set 1: Do three distinct ways of computing the first 20 Fibonacci numbers, including a for loop and a list comprehension as two of the three ways
+* May 17: Complete Ch. 4: Introduction to Python &mdash; Problem Set 1: Use for loops to compute the first 20 Fibonacci numbers
+
+#### Week 2 (May 21 & 24):
+
+* May 21: Study Ch. 5: Visualization with Matplotlib &mdash; Learn to use jupyter-lab &mdash; Make some histogram and scatter plots using the iris dataset
 
 ## FROM HERE DOWN IS PLAN NOT ACTUAL
 
-#### Week 2 (May 20 & 23):
-
-* Ch. 5: Visualization with Matplotlib
 * Ch. 6: Numerical Computing with NumPy
 
 #### Week 3 (May 27 & 30):
