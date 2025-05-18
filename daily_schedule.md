@@ -1,43 +1,43 @@
 ## Daily Schedule (Actual &mdash; Kept Retrospectively)
 
-### Part 1: Scientific Python (using Imad Pasha)
+*Regular meeting schedule is Wednesdays and Saturdays, 11:00-12:00*
 
-* Regular meeting times are Wednesdays and Saturdays (at 11)
+### Part 1: Scientific Python (using *Astronomical Python*)
 
-#### Week 1 (May 16 and 17):
+#### Week 1
 
-* May 16: Self study chapter 1 through chapter 3 and review with Brian
-* May 17: Complete Ch. 4: Introduction to Python &mdash; Problem Set 1: Use for loops to compute the first 20 Fibonacci numbers
+* May 16 &mdash; Self-study Chapter 1 to 3 and review with Brian
+* May 17 &mdash; Complete Chapter 4: Introduction to Python &mdash; Problem Set 1: Use for loops to compute the first 20 Fibonacci numbers
 
-#### Week 2 (May 21 & 24):
+#### Week 2
 
-* May 21: Study Ch. 5: Visualization with Matplotlib &mdash; Learn to use jupyter-lab &mdash; Make some histogram and scatter plots using the iris dataset
+* May 21 &mdash; Complete Chapter 5: Visualization with Matplotlib &mdash; Install and start working in Jupyter Lab &mdash; Problem Set 2: Make some histogram and scatter plots using the iris dataset (save them as Jupyter Lab notebooks)
 
-## FROM HERE DOWN IS PLAN NOT ACTUAL
+#### FROM HERE DOWN IS PLAN NOT ACTUAL
 
-* Ch. 6: Numerical Computing with NumPy
+* May 24 &mdash; Ch. 6: Numerical Computing with NumPy
 
-#### Week 3 (May 27 & 30):
+#### Week 3
 
-* Ch. 7: Scientific Computing with SciPy
-* Ch. 8: Astropy and Astronomical Packages
+* May 28 &mdash; Ch. 7: Scientific Computing with SciPy
+* May 31 &mdash; Ch. 8: Astropy and Astronomical Packages
 
-### Part 2: Data Science Foundations (using Joel Grus)
+### Part 2: Data Science Foundations (using *Data Science from Scratch, 2nd Edition*)
 
-#### Week 4 (June 3 & 6):
+#### Week 4
 
-* Ch. 1–2: What is Data Science? Python Review
-* Ch. 3: Visualizing Data
+* June 4 &mdash; Ch. 1–2: What is Data Science? Python Review
+* June 7 &mdash; Ch. 3: Visualizing Data
 
-#### Week 5 (June 10 & 13):
+#### Week 5
 
-* Ch. 4–6: Linear Algebra, Statistics, Probability
+* June 11 and 14 &mdash; Ch. 4–6: Linear Algebra, Statistics, Probability
 
-#### Week 6 (June 17 & 18):
+#### Week 6
 
-* Ch. 7–8: Hypothesis Testing, Gradient Descent
+* June 18 and 21 &mdash; Ch. 7–8: Hypothesis Testing, Gradient Descent
 
-#### Week 7 (June 24):
+#### Week 7
 
-* Ch. 9–10: Getting Data, Working with Data
-* (Optional bonus topic of Ch. 11–12: Machine Learning intro)
+* June 25 &mdash; Ch. 9–10: Getting Data, Working with Data
+* Optional bonus topic for Saturday after term end &mdash; Ch. 11–12: Machine Learning intro
