@@ -13,7 +13,7 @@
 
 * May 21 &mdash; Complete Chapter 5: Visualization with Matplotlib &mdash; Install and start working in Jupyter Lab &mdash; Problem Set 2: Make some histogram and scatter plots using the iris dataset (save them as Jupyter Lab notebooks)
 
-#### FROM HERE DOWN IS PLAN NOT ACTUAL
+### BELOW THIS DIVISION IS PLAN NOT ACTUAL
 
 * May 24 &mdash; Ch. 6: Numerical Computing with NumPy
 
