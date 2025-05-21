@@ -17,7 +17,7 @@
 
 ### BELOW THIS DIVISION IS PLAN NOT ACTUAL
 
-* May 24 &mdash; Ch. 6: Numerical Computing with NumPy
+* May 24 &mdash; Ch. 6: Numerical Computing with NumPy &mdash; Create a github account, fork the repo: brianhill/scientific-data-analysis &mdash; Then figure out how to get a local copy onto your machine of your forks (hexijin/scientific-data-analysis or jeremychoy/scienctific-data-analsysis) and this will involve installing git on your machine (which will be different for Mac or Windows) &mdash; At some point, we need to learn the shell access to git
 
 #### Week 3
 
