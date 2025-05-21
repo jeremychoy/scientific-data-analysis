@@ -18,7 +18,7 @@ Auditor: Jeremy Choy (DS 24)
 ## Required Materials
 
 * Imad Pasha, *Astronomical Python*
-    * The examples use data hosted on Zenodo at [https://zenodo.org/records/10732223](https://zenodo.org/records/10732223)
+    * The examples use data hosted at [https://zenodo.org/records/10732223](https://zenodo.org/records/10732223)
 * Joel Grus, *Data Science from Scratch, 2nd Edition*
 
 ## Actual Daily Schedule (Kept Retrospectively)
