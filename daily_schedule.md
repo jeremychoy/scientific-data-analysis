@@ -11,7 +11,7 @@
 
 #### Week 2
 
-* May 21 &mdash; Complete Chapter 5: Visualization with Matplotlib ([&sect;2](./aspy/c05/c05s02.ipynb) [&sect;4](./aspy/c05/c05s04.ipynb) [&sect;5](./aspy/c05/c05s05.ipynb) [&sect;6](./aspy/c05/c05s06.ipynb) [&sect;7](./aspy/c05/c05s07.ipynb)) &mdash; Install and start working in Jupyter Lab &mdash; Problem Set 2: Make some histogram and scatter plots using the iris dataset (save them as Jupyter Lab notebooks)
+* May 21 &mdash; Install (if not already part of your Python distribution) and start working in Jupyter Lab &mdash; Complete Chapter 5: Visualization with Matplotlib ([&sect;2](./aspy/c05/c05s02.ipynb) [&sect;4](./aspy/c05/c05s04.ipynb) [&sect;5](./aspy/c05/c05s05.ipynb) [&sect;6](./aspy/c05/c05s06.ipynb) [&sect;7](./aspy/c05/c05s07.ipynb)) [&sect;8](./aspy/c05/c05s08.ipynb)) &mdash; Problem Set 2: Make some histogram and scatter plots using the iris dataset (save them as Jupyter Lab notebooks)
 
 ### BELOW THIS DIVISION IS PLAN NOT ACTUAL
 
